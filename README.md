@@ -1,6 +1,6 @@
 # 3DGS_SLAM
 
-## This is not a original repository. 
+## This is not an original repository. 
 
 This repository is implementation practice of the paper "Gaussian Splatting SLAM[CVPR 2024]"  
   
